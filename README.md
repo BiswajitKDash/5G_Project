@@ -3,4 +3,4 @@
 
 
 In this project, I aim to build a stand-alone Docker-based 5G testbed.
-Please follow the WiKi pages to beging. 
+Please follow the WiKi pages to begin. 
